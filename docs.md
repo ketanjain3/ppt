@@ -53,7 +53,7 @@ The documentation file `pipecat-main/docs/frame-progress.md` contains a diagram 
 
 ### **Key Components**
 
-The Pipecat framework is built from a set of key components that you link together to create your agent.
+The Pipecat framework is built from a set of key components that you link together to create your age
 
 | Component | Description |
 | :--- | :--- |
